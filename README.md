@@ -3,10 +3,10 @@
 <b>Full Stack Software Engineer, Educator & Mentor</b> <br/><br/>
 Technology Stack: <i>JavaScript, ReactJS, Ruby on Rails, Python, SQL, HTML, CSS, BootStrap</i>
 
- •🔭 I’m currently working on adding to my project <a href="https://math-is-a-joke.herokuapp.com/">Math-is-a-Joke</a> <br/> 
- •🌱 I’m currently learning Data Structures & Algorithms and Python <br/>
- •👯 I’m looking to collaborate on new project ideas <br/>
- •⚡ Fun facts: Love to play basketball, do calisthenics, health nut, cook, poker, travel <br/>
+ •🔭 Currently adding new features to <a href="https://math-is-a-joke.herokuapp.com/">Math-is-a-Joke</a> <br/> 
+ •🌱 Learning Data Structures & Algorithms and Python <br/>
+ •👯 Looking to collaborate on new project ideas! <br/>
+ •⚡ Fun facts: Love to play basketball, exercise, health nut, cook, poker, travel <br/>
  •📫 How to reach me: <a href="https://gmail.com">njames15@gmail.com</a>, <a href="https://www.linkedin.com/in/jamesng15/">LinkedIn</a>, <a href="https://medium.com/@jng15">Medium</a>
    
 
