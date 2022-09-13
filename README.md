@@ -2,7 +2,7 @@
 
 <b>Full Stack Software Engineer, Educator & Mentor</b> <br/>
 
- •🔭 Currently adding new features to <a href="https://math-is-a-joke.herokuapp.com/">Math-is-a-Joke</a> <br/> 
+ •🔭 Currently adding new features to my latest project, <a href="https://math-is-a-joke.herokuapp.com/">Math-Is-A-Joke</a> <br/> 
  •🌱 Learning Data Structures & Algorithms and Python <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: Love to play basketball, exercise, health nut, cook, poker, travel <br/>
@@ -22,19 +22,10 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
 
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=jng34" />
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"/>
 
 <!--
 **jng34/jng34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
