@@ -2,8 +2,9 @@
 
 <b>Full Stack Software Engineer, Educator & Mentor</b> <br/>
 
- •🔭 Currently adding new features to my latest project, <a href="https://math-is-a-joke.herokuapp.com/">Math-Is-A-Joke</a> <br/> 
- •🌱 Learning Data Structures & Algorithms and Python <br/>
+ •💡 Participating in "Advent of Code 2022" and "JavaScript-Mas" <br/> 
+ •🔭 Latest project, <a href="https://github.com/jng34/black_jack">BlackJack (Python)</a> <br/> 
+ •🌱 Learning Data Structures & Algorithms, TypeScript, and Python <br/>
  •👯 Looking to collaborate on new project ideas! <br/>
  •⚡ Fun facts: Love to play basketball, exercise, health nut, cook, poker, travel <br/><br/>
  
